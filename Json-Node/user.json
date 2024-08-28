@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Ester Brito",
+        "email": "ester.brito@email.com",
+        "senha": "senhaAna123"
+    },
+    {
+        "id": 2,
+        "name": "Jasmin Martin",
+        "email": "jasminmartin@email.com",
+        "senha": "senhaCarlos456"
+    },
+    {
+        "id": 3,
+        "name": "Gustavo Amaranto",
+        "email": "gustavoamaranto@email.com",
+        "senha": "senhaFernanda789"
+    }
+]
