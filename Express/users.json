@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Ester Brito",
+        "email": "ester.brito@gmail.com",
+        "senha": "senhaEster3"
+    },
+    {
+        "id": 2,
+        "name": "Maria Lurdes",
+        "email": "lurdes.maria@gmail.com",
+        "senha": "senhaLurdes23"
+    },
+    {
+        "id": 3,
+        "name": " João Pessoa",
+        "email": "people.joao@gmail.com",
+        "senha": "senhaJPeople234"
+    },
+    {
+        "id": 4,
+        "name": "Mauro Domingo",
+        "email": "mauro@gmail.com",
+        "senha": "senhaDomingos97"
+    },
+    {
+        "id": 5,
+        "name": "Hilarry Hansen Holmes",
+        "email": "hilla.holmes@gmail.com",
+        "senha": "senhaH.H.Holmes"
+    }
+]
